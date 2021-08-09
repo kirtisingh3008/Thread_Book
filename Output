@@ -1,0 +1,56 @@
+//-----------------------------OUTPUT OF THE CODE---------------------//
+/*root@kali:~# gcc project1.c -lpthread
+root@kali:~# ./a.out
+----------WELCOME TO THE THREAD-BOOK-------
+
+Enter a para ending with # 
+kirti is my name.my teamate name is pallavi.we both are from batch b and we are studying in i2it.we are currently in our fifth semseter and we are having operating system subject in which we enjoyed topics like threading ,deadlock etc. 
+Enter the operation you want to perform
+1.Create
+2.Count of Lines
+3.Pattern Searching
+4.Count of Words Except
+5.Exit
+1
+The Entered paragraph is
+ kirti is my name.my teamate name is pallavi.we both are from batch b and we are studying in i2it.we are currently in our fifth semseter and we are having operating system subject in which we enjoyed topics like threading ,deadlock etc. 
+Enter the operation you want to perform
+1.Create
+2.Count of Lines
+3.Pattern Searching
+4.Count of Words Except
+5.Exit
+2
+The number of Lines     4:
+Enter the operation you want to perform
+1.Create
+2.Count of Lines
+3.Pattern Searching
+4.Count of Words Except
+5.Exit
+3
+
+Enter the word you want to search
+teamate
+i       e
+e       e
+FOUND
+Enter the operation you want to perform
+1.Create
+2.Count of Lines
+3.Pattern Searching
+4.Count of Words Except
+5.Exit
+4
+20,0,0,0,0,2,3
+
+ The count of words are         17
+ Enter the operation you want to perform
+1.Create
+2.Count of Lines
+3.Pattern Searching
+4.Count of Words Except
+5.Exit
+5
+root@kali:~# 
+*/
